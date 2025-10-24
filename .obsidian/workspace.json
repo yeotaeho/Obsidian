@@ -13,21 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제/git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "git"
-            }
-          },
-          {
-            "id": "c949842c729ad7e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도커.md",
+                "file": "무제/도커.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,35 +22,21 @@
             }
           },
           {
-            "id": "e9191068adc29d66",
+            "id": "26896a8da07ac49c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제/Lombok.md",
+                "file": "Attribute,Property,oop(객체지향 프로그램밍),interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lombok"
-            }
-          },
-          {
-            "id": "8a05318c8414a17c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제/git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "git"
+              "title": "Attribute,Property,oop(객체지향 프로그램밍),interface"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,24 +184,32 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "8a05318c8414a17c",
+  "active": "26896a8da07ac49c",
   "lastOpenFiles": [
+    "Pasted image 20251024131934.png",
+    "Pasted image 20251024131919.png",
     "BOM.md",
+    "Attribute,Property,oop(객체지향 프로그램밍),interface.md",
+    "무제/git.md",
+    "Pasted image 20251023155455.png",
+    "Pasted image 20251023154646.png",
+    "무제/노테이션,언노테이션.md",
+    "Pasted image 20251023124825.png",
+    "Pasted image 20251023124816.png",
+    "무제.md",
+    "무제/타입.md",
+    "무제/도커.md",
     "무제/Lombok.md",
     "무제/DTO,VO,service,domain,contorller,view,Repository.md",
-    "무제/도커.md",
     "무제/데이터.md",
     "Pasted image 20251022123006.png",
     "Pasted image 20251022121835.png",
     "Pasted image 20251022121100.png",
     "Pasted image 20251022110914.png",
     "Pasted image 20251015160106.png",
-    "Pasted image 20250930153508.png",
-    "Pasted image 20250930125644.png",
     "무제",
     "무제/cmd, powershell, Terminal 커맨드.md",
     "무제/함수,메소드.md",
-    "무제/타입.md",
     "무제/조건문(loop),반복문.md",
     "무제/자바 if문.md",
     "무제/자료구조(Data Structure).md",
@@ -239,18 +219,10 @@
     "무제/무제 1.md",
     "무제/무제.md",
     "무제/ㅁ.md",
-    "무제/노테이션,언노테이션.md",
     "무제/객체,개체,함수.md",
-    "Pasted image 20251022121307.png",
-    "Pasted image 20251022120502.png",
-    "Pasted image 20251022120018.png",
-    "무제/git.md",
     "무제/DataBase.md",
     "java.lang.md",
     "spring.md",
-    "무제/Expressions, Statements, Blocks 그리고 Instruction.md",
-    "무제/Constructor(생성자),Garbage Collector(쓰레기 처리).md",
-    "무제/JDK설치.md",
     "무제.base",
     "무제 2.base",
     "무제 1.base"

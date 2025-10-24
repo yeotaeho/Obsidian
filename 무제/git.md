@@ -33,3 +33,17 @@ git commit -m "Add project files"파일을 커밋한 후 git push origin main �
 `Your branch is ahead of 'origin/main' by X commits`이렇게 뜨면 폴더경로 설정후 cmd창으로 
 예: cd C:\Users\hi\Documents\project\Spring
 
+
+
+
+error: remote origin already exists.
+
+#### 🔹방법 ① — 기존 origin 수정하기 (추천)
+
+이미 있는 `origin`의 주소를 새 GitHub 레포로 바꾸는 명령어입니다 👇
+
+`git remote set-url origin https://github.com/yeotaeho/Spring-boot.git`
+
+그다음 푸시하세요:
+
+`git push -u origin main`
