@@ -62,3 +62,7 @@ release 전 버전
 풀되는데 그래서 항상 풀하고 설치을 해줘야한다
 
 깃허브에서 액션 잡
+
+git clone -b [브랜치명] --single-branch [저장소 URL]
+
+git clone -b sadf --single-branch https://github.com/yeotaeho/ESG.git
