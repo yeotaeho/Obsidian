@@ -9,6 +9,8 @@ ai line,non-line
 파이썬 list , dictionary
 자바스크립트 array , json
 
+# 아키택처
+
 아키텍처(Architecture) 사용자(브라우저)
 					   ↓
 					Controller (요청 받음)
@@ -19,6 +21,9 @@ ai line,non-line
 					   ↓
 					Database (데이터 저장)
 
+드리븐 아키텍처
+DDD 
+EDA
 
 
 워크로드 
