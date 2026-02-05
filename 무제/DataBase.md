@@ -63,6 +63,12 @@ aichemy으로도 가능하지만 히스토리가 안남음 즉 수정이 불가
 |**수정(Update)**|**불가능** (직접 못함)|**전문 분야** (Alter Table 전문)|
 |**삭제(Drop)**|전체 삭제는 가능|특정 컬럼/테이블만 골라서 삭제 가능|
 
+마이그레이션 파일 생성
+alembic revision --autogenerate -m "Add pref_domain_json and value columns"
+
+데이터베이스 테이블 업데이트 (실제 SQL 실행)
+alembic upgrade head
+
 ### vectordb
 
 기존의 postgredb을 에이전트가 알아 먹을수있게 임베딩한 db

@@ -116,6 +116,8 @@ https://gemini.google.com/share/883d0d888e42
 
 # 루즈 커플링, 하드 커플링, 하이 Cohesion
 
+MCP 등 연결할때 
+
 ![[Pasted image 20260130150427.png]]
 
 | **구분**     | **하드 커플링 (강한 결합)**     | **루즈 커플링 (약한 결합)**  |
@@ -187,3 +189,11 @@ MCP는 타입같은존재
 | **규약 (Protocol)** | **HTTP** (데이터를 주고받는 규칙) | **MCP** (모델과 도구가 대화하는 규칙) |
 | **도구 (Library)**  | **FastAPI / Flask**     | **fastMCP**               |
 | **결과물 (Server)**  | 웹 API 서버                | MCP 서버 (도구 모음)            |
+
+
+
+
+리듀스
+
+
+bullmq

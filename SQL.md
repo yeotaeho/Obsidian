@@ -104,7 +104,9 @@ join과서브쿼리
 인스턴스에 한칸이 **스칼라**
 select뒤에서브쿼리을 스칼라?
 인라인뷰
-
+taskkill /PID 9420 /F
+taskkill /PID 20728 /F
+taskkill /PID 000 /F
 
  ![[Pasted image 20251030091142.png]]
 릴레이션끼리 연결된걸 ERD 
