@@ -15,6 +15,8 @@
 
 mcp는 표준규격 
 선으로 보기에는 애매함
+
+또한 tool calling와 tool서버을 제공 즉 llm모델이 자동으로 툴을 선택
 ![[Pasted image 20260108130628.png]]
 
 
