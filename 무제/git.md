@@ -4,7 +4,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/yeotaeho/-.git
+git remote add origin https://github.com/yeotaeho/ifrsseed.git
 git push -u origin main
 
 원래 있던 레파지토리에 넣을 경우
